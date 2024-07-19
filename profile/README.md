@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+欢迎来到菜鸟生物圈，由一群无所事事的菜鸟组成的小组织~
 <!--
 
 **Here are some ideas to get you started:**
